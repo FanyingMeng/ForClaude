@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|c:\\mac\\home\\desktop\\mvc\\assignment\\mvc2026jokeshopassignment\\mvc2026jokeshopassignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|solutionrelative:mvc2026jokeshopassignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|c:\\mac\\home\\desktop\\mvc\\assignment\\mvc2026jokeshopassignment\\mvc2026jokeshopassignment\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|solutionrelative:mvc2026jokeshopassignment\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|c:\\mac\\home\\desktop\\mvc\\assignment\\mvc2026jokeshopassignment\\mvc2026jokeshopassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|solutionrelative:mvc2026jokeshopassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|c:\\mac\\home\\desktop\\mvc\\assignment\\mvc2026jokeshopassignment\\mvc2026jokeshopassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|solutionrelative:mvc2026jokeshopassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Controllers\\JokesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mvc2026JokeShopAssignment\\Controllers\\JokesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Migrations\\20261020150715_addedCreationDateFieldToJokeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mvc2026JokeShopAssignment\\Migrations\\20261020150715_addedCreationDateFieldToJokeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|c:\\mac\\home\\desktop\\mvc\\assignment\\mvc2026jokeshopassignment\\mvc2026jokeshopassignment\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|solutionrelative:mvc2026jokeshopassignment\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|c:\\mac\\home\\desktop\\mvc\\assignment\\mvc2026jokeshopassignment\\mvc2026jokeshopassignment\\data\\jokeshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|solutionrelative:mvc2026jokeshopassignment\\data\\jokeshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|c:\\mac\\home\\desktop\\mvc\\assignment\\mvc2026jokeshopassignment\\mvc2026jokeshopassignment\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB4B42-5A83-638B-80C2-6DCA40981FB7}|mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment.csproj|solutionrelative:mvc2026jokeshopassignment\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc2026JokeShopAssignment\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "mvc2026JokeShopAssignment\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T15:11:09.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvc2026JokeShopAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "mvc2026JokeShopAssignment\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T15:10:16.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "mvc2026JokeShopAssignment\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Program.cs*",
+              "RelativeToolTip": "mvc2026JokeShopAssignment\\Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:10:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "mvc2026JokeShopAssignment\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Controllers\\CategoriesController.cs*",
+              "RelativeToolTip": "mvc2026JokeShopAssignment\\Controllers\\CategoriesController.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:09:16.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "mvc2026JokeShopAssignment\\Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "mvc2026JokeShopAssignment\\Controllers\\JokesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:08:17.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20261020150715_addedCreationDateFieldToJokeModel.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Migrations\\20261020150715_addedCreationDateFieldToJokeModel.cs",
+              "RelativeDocumentMoniker": "mvc2026JokeShopAssignment\\Migrations\\20261020150715_addedCreationDateFieldToJokeModel.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Migrations\\20261020150715_addedCreationDateFieldToJokeModel.cs",
+              "RelativeToolTip": "mvc2026JokeShopAssignment\\Migrations\\20261020150715_addedCreationDateFieldToJokeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:07:15.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "mvc2026JokeShopAssignment\\Models\\Category.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Models\\Category.cs",
+              "RelativeToolTip": "mvc2026JokeShopAssignment\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:03:32.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Joke.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Models\\Joke.cs",
+              "RelativeDocumentMoniker": "mvc2026JokeShopAssignment\\Models\\Joke.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Models\\Joke.cs",
+              "RelativeToolTip": "mvc2026JokeShopAssignment\\Models\\Joke.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:32:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JokeShopContext.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Data\\JokeShopContext.cs",
+              "RelativeDocumentMoniker": "mvc2026JokeShopAssignment\\Data\\JokeShopContext.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\MVC\\Assignment\\mvc2026JokeShopAssignment\\mvc2026JokeShopAssignment\\Data\\JokeShopContext.cs",
+              "RelativeToolTip": "mvc2026JokeShopAssignment\\Data\\JokeShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:30:01.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
