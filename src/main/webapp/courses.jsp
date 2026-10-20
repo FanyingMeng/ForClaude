@@ -1,6 +1,7 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib prefix="c" uri="jakarta.tags.core" %>
-<jsp:useBean id="viewModel" scope="request" type="nbcc.assignmentservlet.viewmodels.CourseRegistrationViewModel"/>
+<jsp:useBean id="registrations" scope="request" type="java.util.List<nbcc.assignmentservlet.viewmodels.CourseRegistrationViewModel>"/>
+<jsp:useBean id="courses" scope="request" type="java.util.List<nbcc.assignmentservlet.entities.Course>"/>
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,7 +23,7 @@
     </thead>
     <tbody>
 <%--    Todo Implement jsp and html here--%>
-        <c:forEach var="course" items="${viewModel.course}">
+        <c:forEach var="course" items="${courses}">
             <tr>
                 <td>${course.name}</td>
                 <td>${course.creditHours}</td>
@@ -42,13 +43,22 @@
     </thead>
     <tbody>
     <%--    Todo Implement jsp and html here--%>
-        <c:forEach var="courseRegistration" items="${viewModel.courseRegistration}">
-            <tr>
-                <td></td>
-                <td>${courseRegistration.firstName}</td>
-                <td>${courseRegistration.lastName}</td>
-            </tr>
-        </c:forEach>
+        <c:choose>
+            <c:when test="${empty registrations}">
+                <tr>
+                    <td>No registrations found</td>
+                </tr>
+            </c:when>
+            <c:otherwise>
+                <c:forEach var="registration" items="${registrations}">
+                    <tr>
+                        <td>${registration.course.name}</td>
+                        <td>${registration.courseRegistration.firstName}</td>
+                        <td>${registration.courseRegistration.lastName}</td>
+                    </tr>
+                </c:forEach>
+            </c:otherwise>
+        </c:choose>
     </tbody>
 </table>
 

@@ -49,13 +49,12 @@ public class CourseRegistrationServlet extends HttpServlet {
         long courseId = Long.parseLong(request.getParameter("courseId"));
         String firstName = request.getParameter("firstName");
         String lastName = request.getParameter("lastName");
-        long id = Long.parseLong(request.getParameter("id"));
 
         CourseRegistration courseRegistration = new CourseRegistration();
         courseRegistration.setCourseId(courseId);
         courseRegistration.setFirstName(firstName);
         courseRegistration.setLastName(lastName);
-        courseRegistration.setId(id);
+
 
         return courseRegistration;
     }
